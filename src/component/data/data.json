@@ -1,0 +1,440 @@
+[
+ {
+   "id": 1,
+   "name": "Ensalada de Tomate",
+   "desc": "con Aceite de oliva y Ajo.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 2,
+   "name": "Ensalada de Gulas",
+   "desc": "Gulas, Tomate, Lechuga, Ajo.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 3,
+   "name": "Ensalada Casa Lucre",
+   "desc": "Lechuga, Tomate, Atún, Cebolla, Maíz, Espárragos, Huevo cocido.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 4,
+   "name": "Ensalada de Pimientos",
+   "desc": "Pimiento rojo frito, Atún, Anchoas, Huevo cocido",
+   "price": "8,00 €"
+ },
+ {
+   "id": 5,
+   "name": "Ensaladilla Rusa",
+   "desc": "Casera.",
+   "price": "4,50 €"
+ },
+ {
+   "id": 6,
+   "name": "Aros de Cebolla",
+   "desc": "crujientes rebozados.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 7,
+   "name": "Patatas Fritas",
+   "desc": "con Burger",
+   "price": "4,00 €"
+ },
+ {
+   "id": 8,
+   "name": "Perrito Caliente Classic",
+   "desc": "con Patatas.",
+   "price": "3,00 €"
+ },
+ {
+   "id": 9,
+   "name": "Perrito Caliente Lux",
+   "desc": "con Cebolla Frita y Patatas.",
+   "price": "3,50 €"
+ },
+ {
+   "id": 10,
+   "name": "Sandwich Mixto",
+   "desc": "Pan de Molde, Jamón Cocido, Quedo.",
+   "price": "3,00 €"
+ },
+ {
+   "id": 11,
+   "name": "Sandwich Mixto con Bacon",
+   "desc": "Pan de Molde, Jamón York, Queso, Bacon.",
+   "price": "3,50 €"
+ },
+ {
+   "id": 12,
+   "name": "Sandwich Vegetal",
+   "desc": "Pan de Molde, Lechuga, Tomate, Esparragos Blancos, Huevo Duro.",
+   "price": "4,00 €"
+ },
+ {
+   "id": 13,
+   "name": "Sandwich Mediterraneo",
+   "desc": "Pan de Molde, Lechuga, Huevo Duro, Jamón York, Queso.",
+   "price": "4,00 €"
+ },
+ {
+   "id": 14,
+   "name": "Sandwich Casa lucre",
+   "desc": "Pan de Molde, Lechuga, Huevo Frito, Jamón York, Bacon, Quedo.",
+   "price": "4,50 €"
+ },
+ {
+   "id": 15,
+   "name": "Hamburguesa Champion",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne Picada Angus, Beicon, Queso de Cabra, Cebolla Caramelizada, Patatas Fritas.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 16,
+   "name": "Hamburguesa Casa Lucre",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne Picada, Jamón, York, Beicon, Queso, Huevo Frito, Patatas Fritas.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 17,
+   "name": "Hamburguesa Especial",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne Picada, Jamón York, Beicon, Queso, Patatas Fritas.",
+   "price": "4,50 €"
+ },
+ {
+   "id": 18,
+   "name": "Hamburguesa Celiacos",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne, Ensalada.",
+   "price": "4,00 €"
+ },
+ {
+   "id": 19,
+   "name": "Hamburguesa con Pollo a la Plancha",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne de Pollo, Patatas Fritas.",
+   "price": "3,50 €"
+ },
+ {
+   "id": 20,
+   "name": "Hamburguesa con Pollo Empanado",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne de Pollo, Queso, Patatas Fritas.",
+   "price": "3,50 €"
+ },
+ {
+   "id": 21,
+   "name": "Hamburguesa Classic",
+   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne Picada, Patatas Fritas.",
+   "price": "3,50 €"
+ },
+ {
+   "id": 22,
+   "name": "Bocata de Calamares",
+   "desc": "fritos.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 23,
+   "name": "Bocata de Atún",
+   "desc": "con Anchoas.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 24,
+   "name": "Bocata de Queso",
+   "desc": "Manchego Semi Curado.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 25,
+   "name": "Bocata de Jamón",
+   "desc": "Serrano.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 26,
+   "name": "Bocata de Chorizo",
+   "desc": "casero frito.",
+   "price": "4,50 €"
+ },
+ {
+   "id": 27,
+   "name": "Bocata de Lomo de Cerdo",
+   "desc": "con Queso.",
+   "price": "4,50 €"
+ },
+ {
+   "id": 28,
+   "name": "Bocata de Pepito",
+   "desc": "de Ternera.",
+   "price": "4,50 €"
+ },
+ {
+   "id": 29,
+   "name": "Tosta de Salmón Ahumado,",
+   "desc": "Gulas y Queso Filadelfia Cremoso.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 30,
+   "name": "Tosta de Anchoas",
+   "desc": "con Pimientos Asados, y Huevo Cocido.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 31,
+   "name": "Tosta de Atún",
+   "desc": "con Pimientos Asados.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 32,
+   "name": "Tosta de Solomillo de Cerdo,",
+   "desc": "Queso de Cabra y Cebolla Caramelizada.",
+   "price": "6,50 €"
+ },
+ {
+   "id": 33,
+   "name": "Tosta de Anchoas",
+   "desc": "con Pimientos Asados y Boquerones.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 34,
+   "name": "Tosta de Pisto Casero",
+   "desc": "con Huevo Frito.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 35,
+   "name": "Tosta de Jamón Ibérico",
+   "desc": "con Tomate Natural.",
+   "price": "6,50 €"
+ },
+ {
+   "id": 36,
+   "name": "Salchi Papas",
+   "desc": "Seis Salsas.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 37,
+   "name": "Papas Beicon",
+   "desc": "Seis Salsas.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 38,
+   "name": "Papas Jamón",
+   "desc": "Seis Salsas.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 39,
+   "name": "Patatas",
+   "desc": "Seis Salsas.",
+   "price": "7,00 €"
+ },
+ {
+   "id": 40,
+   "name": "Papas",
+   "desc": "Ali-Oli.",
+   "price": "5,50 €"
+ },
+ {
+   "id": 41,
+   "name": "Papas",
+   "desc": "Mixta.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 42,
+   "name": "Papas",
+   "desc": "Bravas.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 43,
+   "name": "Sarten de Huevos Rotos",
+   "desc": "con Patatas y Lomo.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 44,
+   "name": "Sarten de Huevos Rotos",
+   "desc": "con Patatas y Jamón.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 45,
+   "name": "Sarten de Huevos Rotos",
+   "desc": "con Patatas y Chorizo.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 46,
+   "name": "Alitas de Pollo",
+   "desc": "con Salsa Barbacoa.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 47,
+   "name": "Solomillo de Cerdo a la plancha",
+   "desc": "con Queso de Cabra y Cebolla Caramelizada.",
+   "price": "14,00 €"
+ },
+ {
+   "id": 48,
+   "name": "Chuletas de Cordero a la plancha",
+   "desc": "con Patatas y Pimientos.",
+   "price": "15 €"
+ },
+ {
+   "id": 49,
+   "name": "Entrecot de Ternera a la plancha",
+   "desc": "con Patatas Fritas y Pimientos.",
+   "price": "16,00 €"
+ },
+ {
+   "id": 50,
+   "name": "Queso",
+   "desc": "Manchego.",
+   "price": "16,00 €"
+ },
+ {
+   "id": 51,
+   "name": "Jamón Ibérico y Queso Manchego",
+   "desc": "(jamón corte a cuchillo).",
+   "price": "21,00 €"
+ },
+ {
+   "id": 52,
+   "name": "Jamón Ibérico",
+   "desc": "corte a cuchillo.",
+   "price": "25,00 €"
+ },
+ {
+   "id": 53,
+   "name": "Pulpo",
+   "desc": "a la Gallega.",
+   "price": "17,50 €"
+ },
+ {
+   "id": 54,
+   "name": "Sepias",
+   "desc": "a la plancha.",
+   "price": "9,50 €"
+ },
+ {
+   "id": 55,
+   "name": "Mejillones",
+   "desc": "al vapor.",
+   "price": "7,00 €"
+ },
+ {
+   "id": 56,
+   "name": "Boquerones",
+   "desc": "en Vinagre.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 57,
+   "name": "Chopitos y Puntillitas",
+   "desc": "fritos.",
+   "price": "9,00 €"
+ },
+ {
+   "id": 58,
+   "name": "Calamares",
+   "desc": "a la Romana.",
+   "price": "9,00 €"
+ },
+ {
+   "id": 59,
+   "name": "Rejos",
+   "desc": "fritos.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 60,
+   "name": "Croquetas caseras",
+   "desc": "de Jamón y Patatas.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 61,
+   "name": "Setas a la plancha",
+   "desc": "y Ajo.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 62,
+   "name": "Champiñon",
+   "desc": "al ajillo.",
+   "price": "6,50 €"
+ },
+ {
+   "id": 63,
+   "name": "Alitas de Pollo",
+   "desc": "fritas.",
+   "price": "6,50 €"
+ },
+ {
+   "id": 64,
+   "name": "Orejas",
+   "desc": "a la plancha.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 65,
+   "name": "Chorizo de Pueblo",
+   "desc": "frito.",
+   "price": "5,00 €"
+ },
+ {
+   "id": 66,
+   "name": "Zarajo de Cuenca",
+   "desc": "a la plancha (precio por unidad).",
+   "price": "4,00 €"
+ },
+ {
+   "id": 67,
+   "name": "Pincho Moruno",
+   "desc": "adobado (precio por unidad).",
+   "price": "4,00 €"
+ },
+ {
+   "id": 68,
+   "name": "Chorizo Frito, Huevos (2)",
+   "desc": "y Patatas Fritas.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 69,
+   "name": "Jamón Serrano, Huevos Fritos (2)",
+   "desc": "y Patatas Fritas.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 70,
+   "name": "Huevos (2), Beicon, Patatas Fritas",
+   "desc": "y Ensalada.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 71,
+   "name": "Filete de Ternera con Huevo",
+   "desc": "Patatas y Ensalada.",
+   "price": "8,00 €"
+ },
+ {
+   "id": 72,
+   "name": "Pechuga de Pollo a la plancha",
+   "desc": "con Huevo, Patatas y Ensalada.",
+   "price": "7,50 €"
+ },
+ {
+   "id": 73,
+   "name": "Pechuga de Pollo empanada",
+   "desc": "con Patatas y Ensalada.",
+   "price": "7,50 €"
+ }
+]
