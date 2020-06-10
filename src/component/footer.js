@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export default class Footer extends Component {
     render() {
         return (
-            <p>Informatica 404</p>
+            <div className="footer"> Hecho por: Informatica 404 &copy; 2020 </div>
         );
     }
 }
