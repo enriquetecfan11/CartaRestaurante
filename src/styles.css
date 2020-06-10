@@ -51,9 +51,9 @@ h2 {
 .nombre{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
-  text-align: center;
   font-weight: bold;
   display: inline-block;
+  float: left;
 }
 
 .price{

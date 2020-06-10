@@ -15,8 +15,8 @@ const newdata = data.map(data => {
         <tr>
           <td className="descripcion">{data.desc}</td>
           <td className="descripcion"></td>
-          
         </tr>
+        <td>  ----------------------------------------  </td>
         <tr>
         </tr>
       </tbody>
