@@ -1,6 +1,7 @@
 body {
   font-size: 20px;
-  font-family: "Playfair Display", serif;
+
+  display: block;
 }
 
 h1{
@@ -48,28 +49,21 @@ h2 {
 .navbar-brand {float:none;}
 
 
-.nombre{
+.name{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   display: inline-block;
 }
 
 .price{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
-  text-align: center;
-  display: inline-block;
-}
-
-.descripcion{
-  font-family: Arial;
   font-size: 20px;
-  text-align: center;
-  display: inline-block;
-  
 }
 
-.table {
-  text-align: "center";
+.description{
+  font-family: Arial;
+  font-size: 20px; 
+  border-bottom:10px solid #000;
+  
 }

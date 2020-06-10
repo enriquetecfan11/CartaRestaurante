@@ -12,7 +12,7 @@ class Place extends Component {
     return (
       <Fragment>
         <div className="logoCont">
-        <img src={logo} alt="Logo" width="250" height="250" />;
+        <img src={logo} alt="Logo" width="250" height="250" />
           <div className="logo">
           </div>
         </div>
