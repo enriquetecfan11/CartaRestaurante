@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Header from "./component/header";
 import Main from "./component/main";
 import Footer from "./component/footer";
-import logo from './logolucre.svg'; // Tell webpack this JS file uses this image
+import logo from './restaurante.svg'; // Tell webpack this JS file uses this image
 
 import "./styles.css";
 
@@ -17,6 +17,7 @@ class Place extends Component {
           </div>
         </div>
         <Header />
+        <br></br>
             <Main />
              <Footer/>    
             </Fragment>
