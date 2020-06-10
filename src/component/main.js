@@ -6,13 +6,11 @@ import data from "./data/data.json";
 
 const newdata = data.map(data => {
   return (
-    <nav>
-      <nav>
-        <div className="name">{data.name}</div>
+      <div>
+        <div className="name-main">{data.name}</div>
         <div className="price">{data.price}</div>
         <div className="description">{data.desc}</div>
-      </nav>
-    </nav>
+      </div>
   );
 });
 
