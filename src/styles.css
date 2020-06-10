@@ -56,41 +56,17 @@ h2 {
   display: inline-block;
 }
 
+.price{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  display: inline-block;
+}
+
 .descripcion{
   font-family: Arial;
   font-size: 15px;
   text-align: center;
   display: inline-block;
-}
-
-.price{
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-  text-align: left;
-  display: inline-block;
-}
-
-
-
-table.blueTable {
-  width: 900px;
-}
-table.blueTable td, table.blueTable th {
-  border: 1px solid #AAAAAA;
-}
-table.blueTable tbody td {
-  font-size: 15px;
-}
-table.blueTable tfoot td {
-  font-size: 14px;
-}
-table.blueTable tfoot .links {
-  text-align: right;
-}
-table.blueTable tfoot .links a{
-  display: inline-block;
-  background: #1C6EA4;
-  color: #FFFFFF;
-  padding: 2px 8px;
-  border-radius: 5px;
+  
 }
