@@ -6,7 +6,7 @@ import data from "./data/data.json";
 
 const newdata = data.map(data => {
   return (
-    <table id="tablePreview" class="table table-sm table-borderless">
+    <table id="tablePreview" class="table table-sm table-borderless align-middle">
       <tbody>
         <tr>
           <td className="nombre">{data.name}</td>
@@ -14,9 +14,7 @@ const newdata = data.map(data => {
         </tr>
         <tr>
           <td className="descripcion">{data.desc}</td>
-          <td className="descripcion"></td>
         </tr>
-        <td>  ----------------------------------------  </td>
         <tr>
         </tr>
       </tbody>

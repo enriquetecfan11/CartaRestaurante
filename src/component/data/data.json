@@ -108,18 +108,6 @@
    "price": "4,00 €"
  },
  {
-   "id": 19,
-   "name": "Hamburguesa con Pollo a la Plancha",
-   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne de Pollo, Patatas Fritas.",
-   "price": "3,50 €"
- },
- {
-   "id": 20,
-   "name": "Hamburguesa con Pollo Empanado",
-   "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne de Pollo, Queso, Patatas Fritas.",
-   "price": "3,50 €"
- },
- {
    "id": 21,
    "name": "Hamburguesa Classic",
    "desc": "Pan de Hamburguesa, Lechuga, Tomate, Cebolla, Carne Picada, Patatas Fritas.",
@@ -411,12 +399,6 @@
    "id": 69,
    "name": "Jamón Serrano, Huevos Fritos (2)",
    "desc": "y Patatas Fritas.",
-   "price": "7,50 €"
- },
- {
-   "id": 70,
-   "name": "Huevos (2), Beicon, Patatas Fritas",
-   "desc": "y Ensalada.",
    "price": "7,50 €"
  },
  {

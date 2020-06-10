@@ -50,23 +50,26 @@ h2 {
 
 .nombre{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   display: inline-block;
-  float: left;
 }
 
 .price{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   display: inline-block;
 }
 
 .descripcion{
   font-family: Arial;
-  font-size: 15px;
+  font-size: 20px;
   text-align: center;
   display: inline-block;
   
+}
+
+.table {
+  text-align: "center";
 }
