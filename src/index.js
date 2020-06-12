@@ -19,7 +19,8 @@ import Bocata from "./component/sanwich"
 import Hamburger from "./component/header-hamburger"
 import Hamburgesas from "./component/hamburgesas"
 
-
+import Pan from "./component/boacata-header"
+import Jamon from "./component/bocatas"
 
 import logo from './restaurante.svg'; // Tell webpack this JS file uses this image
 
@@ -52,6 +53,11 @@ class Place extends Component {
         <Hamburger />
         <br></br>
         <Hamburgesas />
+        <br></br>
+        <br></br>
+        <Pan />
+        <br></br>
+        <Jamon />
       </Fragment>
     );
   }
