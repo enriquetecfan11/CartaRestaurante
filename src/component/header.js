@@ -8,6 +8,7 @@ export default class Header extends Component {
         <h1>Tu Restaurante</h1>
         <h3>Plaza Mayor, Mondejar 19110 (Guadalajara)</h3>
         <h3> tel. xxx xxx xxx email: xxx@mail.com</h3>
+        <br></br>
       </div>
     );
   }
