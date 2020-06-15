@@ -5,6 +5,7 @@ import perrito from './hotdog.png'; // Tell webpack this JS file uses this image
 import sanwich from './sandwich.png'; // Tell webpack this JS file uses this image
 import hamburgesa from './hamburguesa.png';
 import bocata from "./bocata.png"; // Tell webpack this JS file uses this image
+import tosta from "./tosta.png"
 
 
 
@@ -35,6 +36,11 @@ export default class Header extends Component {
         <button>
         <a href="#bocata">
           <img src={bocata} alt="Logo" with="50" height="50"  />
+        </a>
+        </button>
+        <button>
+        <a href="#tosta">
+          <img src={tosta} alt="Logo" with="50" height="50"  />
         </a>
         </button>
       </div>
