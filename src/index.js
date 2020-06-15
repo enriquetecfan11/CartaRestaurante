@@ -67,6 +67,8 @@ class Place extends Component {
         <Tosta />
         <br></br>
         <Tosta2 />
+        <br></br>
+        <Footer />
       </Fragment>
     );
   }
