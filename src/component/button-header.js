@@ -13,36 +13,49 @@ export default class Header extends Component {
   render() {
     return (
       <div>
-        <button>
-        <a href="#ensaladas">
-          <img src={salad} alt="Logo" with="50" height="50"  />
-        </a>
-        </button>
-        <button>
-        <a href="#hotdog">
-          <img src={perrito} alt="Logo" with="50" height="50"  />
-        </a>
-        </button>
-        <button>
-        <a href="#sanwich">
-          <img src={sanwich} alt="Logo" with="50" height="50"  />
-        </a>
-        </button>
-        <button>
-        <a href="#hamburgesas">
-          <img src={hamburgesa} alt="Logo" with="50" height="50"  />
-        </a>
-        </button>
-        <button>
-        <a href="#bocata">
-          <img src={bocata} alt="Logo" with="50" height="50"  />
-        </a>
-        </button>
-        <button>
-        <a href="#tosta">
-          <img src={tosta} alt="Logo" with="50" height="50"  />
-        </a>
-        </button>
+        <div className="buttons1">
+
+          <button>
+            <a href="#ensaladas">
+              <img src={salad} alt="Logo" with="50" height="50" />
+            </a>
+          </button>
+
+          <button>
+            <a href="#hotdog">
+              <img src={perrito} alt="Logo" with="50" height="50" />
+            </a>
+          </button>
+
+          <button>
+            <a href="#sanwich">
+              <img src={sanwich} alt="Logo" with="50" height="50" />
+            </a>
+          </button>
+
+        </div>
+
+        <div className="buttons2">
+
+          <button>
+            <a href="#hamburgesas">
+              <img src={hamburgesa} alt="Logo" with="50" height="50" />
+            </a>
+
+          </button>
+          <button>
+            <a href="#bocata">
+              <img src={bocata} alt="Logo" with="50" height="50" />
+            </a>
+
+          </button>
+          <button>
+            <a href="#tosta">
+              <img src={tosta} alt="Logo" with="50" height="50" />
+            </a>
+          </button>
+
+        </div>
       </div>
     );
   }
