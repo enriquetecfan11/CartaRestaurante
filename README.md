@@ -1,6 +1,6 @@
-# Carta Restaurante Casa Lucre
+# Carta De Un Restaurante
 
-He hecho una carta de menu para un Restaurante Bar de Tapas Casa Lucre ubicado en la Localidad de Mondejar Guadalajara en España 
+He hecho una carta de menu para que los resturantes puedan adaptarse a la "nueva" normalidad de este Covid 2019 y poder escanearla con un codigo QR para verla desde cualquier dipositivo movil
 
 
 ## Programacion
